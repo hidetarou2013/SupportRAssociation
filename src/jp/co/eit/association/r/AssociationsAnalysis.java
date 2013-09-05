@@ -17,7 +17,9 @@ import java.util.ArrayList;
 /**
  * RでAssociationsAnalysisするためのR Script作成ツール
  * 2013/09/04 C6_Analysis機能実装
- * 
+ * 2013/09/05 GitHubへUPの試験
+ * https://github.com/hidetarou2013/SupportRAssociation.git
+ *
  * @author hidetarou2013
  *
  */
